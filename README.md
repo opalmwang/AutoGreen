@@ -1,6 +1,6 @@
 # AutoGreen
 
-[![ci](https://github.com/opalmwang/AutoGreen/actions/workflows/ci.yml/badge.svg)](https://github.com/opalm/AutoGreen/actions/workflows/ci.yml)
+[![ci](https://github.com/opalmwang/AutoGreen/actions/workflows/main.yml/badge.svg)](https://github.com/opalmwang/AutoGreen/actions/workflows/main.yml)
 
 A stochastic GitHub activity generator and **1D symmetric random walk** experiment powered by GitHub Actions.
 
