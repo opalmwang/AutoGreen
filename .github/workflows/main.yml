@@ -56,6 +56,15 @@ jobs:
             "Reorganize" "fine-tune" "Quick fix" "temp" "Checkpoint" "save progress"
             "misc" "More changes" "continue" "wip" "Fix typo" "minor fix"
             "Clean up code" "adjust spacing" "Update config" "bump version" "test"
+            "Add helper" "Remove unused code" "Update dependencies" "fix edge case"
+            "Improve readability" "Adjust padding" "Fix missing semicolon"
+            "Update copy" "Refine logic" "Add fallback" "Fix broken link"
+            "Clean up imports" "Update gitignore" "Tweak colors" "Fix alignment"
+            "Draft changes" "Update example" "Fix null check" "Optimize loop"
+            "Add error handling" "Update script" "Minor style tweaks"
+            "Rename variable" "Fix typos in docs" "Keep working" "Small refactor"
+            "Update test data" "Fix responsive layout" "Tidy comments"
+            "Add notes" "Remove debug log" "Update template" "Fix overflow"
           )
 
           REMAIN=$((6 - DAY_OF_WEEK))   # CHANGED: 平日版，週一=5 ... 週五=1
