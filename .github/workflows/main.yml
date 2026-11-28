@@ -26,7 +26,7 @@ jobs:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
           USER_EMAIL: "348707348+opalmwang@users.noreply.github.com"   # 填回你自己的 noreply 信箱
-          USER_NAME: "oplamwang"    # 填回你自己的 GitHub 使用者名稱
+          USER_NAME: "opalmwang"    # 填回你自己的 GitHub 使用者名稱
         run: |
           rand() { echo $(( $(od -An -N4 -tu4 /dev/urandom) % $1 )); }
 
